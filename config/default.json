@@ -1,6 +1,13 @@
 {
+  "Application": {
+    "Name": ""
+  },
+  "Loggly": {
+    "Domain": "",
+    "Key": ""
+  },
   "KeenIO": {
-    "ProjectId": "Your project id",
-    "WriteKey": "Your write key"
+    "ProjectId": "",
+    "WriteKey": ""
   }
 }
