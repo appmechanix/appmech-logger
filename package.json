@@ -1,6 +1,6 @@
 {
   "name": "appmech-logger",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Logging library for appmechanix apps",
   "main": "lib/index.js",
   "scripts": {
